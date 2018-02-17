@@ -17,7 +17,10 @@ C (gcc5.4.0,cc5.4.0)
 |Heap sort     | heap_sort.py      |
 |Shell sort    | shell_sort.py     |
 
-sort_basis_code_1.0.c  
+
+| Algorithm  | File name   |
+|:-----------|:------------|
+| Basis      |sort_basis_code_1.0.c|  
 
 
 **Reference**  
