@@ -36,3 +36,4 @@ C (gcc5.4.0,cc5.4.0)
  :weary: Data Structures and Algorithms Using Python  ※This book is useful but has many critical mistakes... You SHOULD NOT buy or read this one!!!    
  :relieved: Algorithms in C  
 Python Algorithms: Mastering Basic Algorithms in the Python Language  
+[Algoful](http://algoful.com/) ※ in Japanese  
