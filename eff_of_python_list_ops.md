@@ -1,5 +1,6 @@
-Big-O Efficiency of Python List Operators
+# Efficiency of Operations
 
+## Big-O Efficiency of Python List Operators
 
 | Operation   | Big-O Efficiency |
 |:------------|:-------------|
@@ -18,3 +19,14 @@ Big-O Efficiency of Python List Operators
 | concatenate    | O(k)      |
 | sort           | O(nlogn   |
 | multiply       | O(nk)     |
+
+## Big-O Efficiency of Python Dictionary Operations
+
+| Operation   | Big-O Efficiency |
+|:------------|:-------------|
+| copy        | O(n)         |
+| get item    | O(1)         |
+| set item    | O(1)         |
+| delete item | O(1)         |
+| contains(in)| O(1)         |
+| iteration   | O(n)         |
