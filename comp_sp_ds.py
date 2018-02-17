@@ -1,4 +1,4 @@
-# Compare the execusion time for making list
+# Compare the execusion time to make list
 # ksnt
 
 """ result
