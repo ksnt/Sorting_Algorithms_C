@@ -21,7 +21,7 @@ sort_basis_code_1.0.c
 
 
 **Reference**  
-Problem Solving with Algorithms and Data Structures Release 3.0  
+[Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)  
 Data Structures and Algorithms Using Python  
 Algorithms in C  
 
