@@ -1,39 +1,20 @@
 Big-O Efficiency of Python List Operators
 
-Operation
 
-indexx[]
-index assignment
-append
-pop()
-pop(i)
-insert(i,item)
-del operator
-iteration
-contains (in)
-get slice [x:y]
-del slice
-set slice
-reverse
-concatenate
-sort
-multiply
-
-Big-O Efficiency
-
-O(1)
-O(1)
-O(1)
-O(1)
-O(n)
-O(n)
-O(n)
-O(n)
-O(n)
-O(k)
-O(n)
-O(n + k)
-O(n)
-O(k)
-O(n log n)
-O(nk)
+| Operation   | Big-O Efficiency |
+|:------------|:-------------|
+| indexx[]    | O(1)         |
+| append      | O(1)         |
+| pop()       | O(1)         |
+| pop(i)      | O(1)         |
+| insert(i,item) | O(n)      | 
+| del operator   | O(n)      |
+| iteration      | O(n)      | 
+| contains(in)   | O(n)      |
+| get slice [x:y]| O(k)      |
+| del slice      | O(n)      |
+| set slice      | O(n+k)    |
+| reverse        | O(n)      |
+| concatenate    | O(k)      |
+| sort           | O(nlogn   |
+| multiply       | O(nk)     |
