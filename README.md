@@ -1,6 +1,10 @@
 **Objective**  
 Personal study note for review of algorithms
 
+**Language**  
+Python3.6.3  
+C (gcc5.4.0,cc5.4.0)  
+
 **Files**  
 bubble_sort.py  
 selection_sort.py  
