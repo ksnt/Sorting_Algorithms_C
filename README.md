@@ -17,11 +17,14 @@ C (gcc5.4.0,cc5.4.0)
 |Heap sort     | heap_sort.py      |
 |Shell sort    | shell_sort.py     |
 
-sort_basis_code_1.0.c  
+
+| Algorithm  | File name   |
+|:-----------|:------------|
+| Basis      |sort_basis_code_1.0.c|  
 
 
 **Reference**  
-Problem Solving with Algorithms and Data Structures Release 3.0  
+[Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)  
 Data Structures and Algorithms Using Python  
 Algorithms in C  
 
