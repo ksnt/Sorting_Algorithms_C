@@ -36,7 +36,7 @@ class MaxHeap:
                      i = i - 1
                print("Buit a heap.")
  
-def heapSort(heap):
+def heapsort(heap):
        while heap.size >1:
                heap.arr[0],heap.arr[heap.size-1]=heap.arr[heap.size-1],heap.arr[0]
                heap.size-=1
@@ -46,5 +46,5 @@ seq=list(map(int,input("Enter the elements to sort: ").split()))
 heap=MaxHeap()
 heap.buildheap(seq)
 print("Initial sequence: ",seq)   
-heapSort(heap)
+heapsort(heap)
 print("Sorted sequence: ",seq) 
