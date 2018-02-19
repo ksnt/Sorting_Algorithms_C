@@ -20,7 +20,7 @@ C (gcc5.4.0,cc5.4.0)
 | Algorithm  | File name   |
 |:-----------|:------------|
 |Euclidean Algorithm    | euclid.py     |
-
+|Fermat's Test    | euclid.py     |
 
 | Algorithm  | File name   |
 |:-----------|:------------|
