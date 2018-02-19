@@ -17,6 +17,10 @@ C (gcc5.4.0,cc5.4.0)
 |Heap sort     | heap_sort.py      |
 |Shell sort    | shell_sort.py     |
 
+| Algorithm  | File name   |
+|:-----------|:------------|
+|Euclidean Algorithm    | euclid.py     |
+
 
 | Algorithm  | File name   |
 |:-----------|:------------|
