@@ -52,6 +52,8 @@ https://gist.github.com/haikentcode/80a12e92ab2173490a088c97a80b1372 ※I revise
 
 [ヒープソートの実装方法とアルゴリズム](https://webbibouroku.com/Blog/Article/py-heapsort) ※ in Japanese  
 
+[Algorithms with Python](http://melborne.github.io/2009/03/18/notitle/) ※ in Japanese  
+
 
 ### Theoretical
 Aho, A. V., & Hopcroft, J. E. (1974). The design and analysis of computer algorithms. Pearson Education India.  
