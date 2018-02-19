@@ -35,13 +35,22 @@ C (gcc5.4.0,cc5.4.0)
 
 ### Practical
  :smile: [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)  
+ 
  :weary: Data Structures and Algorithms Using Python  ※This book is useful but has many critical mistakes... You SHOULD NOT buy or read this one!!!    
+ 
  :relieved: Algorithms in C  
+ 
 Python Algorithms: Mastering Basic Algorithms in the Python Language  
+
 https://gist.github.com/haikentcode/80a12e92ab2173490a088c97a80b1372 ※I revised this code for heap_sort.py  
 [Algoful](http://algoful.com/) ※ in Japanese  
+
 [ヒープソートの実装方法とアルゴリズム](https://webbibouroku.com/Blog/Article/py-heapsort) ※ in Japanese  
+
 
 ### Theoretical
 Aho, A. V., & Hopcroft, J. E. (1974). The design and analysis of computer algorithms. Pearson Education India.  
+
 Sedgewick, R., & Flajolet, P. (1996). An introduction to the analysis of algorithms. Pearson Education India.  
+
+(Arora, S., & Barak, B. (2009). Computational complexity: a modern approach. Cambridge University Press. ※ Detailed computational complexity)  
