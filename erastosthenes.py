@@ -33,5 +33,4 @@ def erastosthenes(n):
 
 print('Please enter an integer:')
 n = int(input())
-print("The result is:")
-print(erastosthenes(n))
+print("The result is:", erastosthenes(n))
