@@ -34,7 +34,7 @@ C (gcc5.4.0,cc5.4.0)
 |:-----------|:------------|
 | comp_sp_ds.py                 | Compare the execusion time to make list |
 | comp_sp_ds_plot.py            | Compare the execusion time to make list with plot|
-| eff_of_python_list_ops.md     | Efficiency of Operations in Python|
+| eff_of_python_list_ops.md     | Big-O Efficiency of List and Dictionalry Operations in Python - A Cheatsheet|
 | Compare the execusion time to make list.ipynb | Compare the execusion time to make list (Notebook version)|
 
 
