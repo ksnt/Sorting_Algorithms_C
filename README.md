@@ -22,6 +22,7 @@ C (gcc5.4.0,cc5.4.0)
 |:-----------|:------------|
 |Euclidean Algorithm | euclid.py          |
 |Fermat's Test       | fermat.py          |
+|Sieve of Eratosthenes| erastosthenes.py  |
 |Tail Recursion      | tail_recursion.py  |
 
 
