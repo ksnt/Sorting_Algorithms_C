@@ -1,6 +1,20 @@
 # Sieve of Eratosthenes
 # ksnt
 
+# Algorithm
+# 1.Generate a list in which the numbers from 2 to n are included
+# 2.The head element of the numbers (m) is added to another list for primes
+# 3.Drop the numbers which can be divided by m
+# 4.Repeat 2-3 till m+1 < sqrt(n)
+# 5.The remaining numbers in the list generated first are added to the list for primes
+
+# Example
+# $ python erastosthenes.py 
+# Please enter an integer:
+# 10
+# The result is:
+# [2, 3, 5, 7]
+
 import math
 
 def erastosthenes(n):
