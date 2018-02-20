@@ -1,5 +1,5 @@
 ## Objective
-Personal study note for review of algorithms
+Personal study note for review of basic algorithms
 
 ## Language
 Python3.6.3  
@@ -37,6 +37,10 @@ C (gcc5.4.0,cc5.4.0)
 | comp_sp_ds_plot.py            | Compare the execusion time to make list with plot|
 | eff_of_python_list_ops.md     | Big-O Efficiency of List and Dictionalry Operations in Python - A Cheatsheet|
 | Compare the execusion time to make list.ipynb | Compare the execusion time to make list (Notebook version)|
+
+| Method  | File name   |
+|:-----------|:------------|
+| Sequential(Linear) Search     |sequential_search.py |
 
 
 ## Reference  
