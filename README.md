@@ -40,7 +40,8 @@ C (gcc5.4.0,cc5.4.0)
 
 | Method  | File name   |
 |:-----------|:------------|
-| Sequential(Linear) Search     |sequential_search.py |
+| Sequential(Linear) Search     | sequential_search.py |
+| Binary Search                 | binary_search.py     |
 
 
 ## Reference  
