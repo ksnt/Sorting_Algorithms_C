@@ -18,7 +18,7 @@ def fib(n):
 # 1.2. Memoization version
 
 def memoize(f):
-	memo = {} # using dictionary
+	memo = {} # using dictionary for removing duplicated elements
 	def helper(x):
 		if x not in memo:
 			memo[x] = f(x)
