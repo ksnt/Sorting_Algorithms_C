@@ -61,7 +61,9 @@ https://gist.github.com/haikentcode/80a12e92ab2173490a088c97a80b1372 ※I revise
 
 [ヒープソートの実装方法とアルゴリズム](https://webbibouroku.com/Blog/Article/py-heapsort) ※ in Japanese  
 
-:smile: [Algorithms with Python](http://melborne.github.io/2009/03/18/notitle/) ※ in Japanese  
+:smile: [Algorithms with Python](http://www.geocities.jp/m_hiroi/light/index.html) ※ in Japanese  
+
+http://melborne.github.io/2009/03/18/notitle/ ※ in Japanese  
 
 https://cs.nyu.edu/courses/fall17/CSCI-UA.0310-003/ ※ I came across the page at NYU. Problem sets seem very interesting to me. I am jealous of NYU students ;-)   
 
