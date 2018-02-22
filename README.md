@@ -57,6 +57,8 @@ Python Algorithms: Mastering Basic Algorithms in the Python Language
 
 https://gist.github.com/haikentcode/80a12e92ab2173490a088c97a80b1372 ※I revised this code for heap_sort.py  
 
+[Memoization with Decorators](https://www.python-course.eu/python3_memoization.php)  
+
 :smile: [Algoful](http://algoful.com/) ※ in Japanese  
 
 [ヒープソートの実装方法とアルゴリズム](https://webbibouroku.com/Blog/Article/py-heapsort) ※ in Japanese  
