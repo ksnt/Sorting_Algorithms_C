@@ -11,6 +11,7 @@ C (gcc5.4.0,cc5.4.0)
 | Data Structure  | File name   |
 |:-----------|:------------|
 |Stack   | Stack.py    | 
+|Queue   | Queue.py    |
 
 
 | Algorithm  | File name   |
