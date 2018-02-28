@@ -12,6 +12,7 @@ C (gcc5.4.0,cc5.4.0)
 |:-----------|:------------|
 |Stack   | Stack.py    | 
 |Queue   | Queue.py    |
+|Binary Tree |Binary_Tree.py |
 
 
 | Algorithm  | File name   |
