@@ -7,6 +7,12 @@ C (gcc5.4.0,cc5.4.0)
 
 ## Files  
 
+
+| Data Structure  | File name   |
+|:-----------|:------------|
+|Stack   | Stack.py    | 
+
+
 | Algorithm  | File name   |
 |:-----------|:------------|
 |Bubble sort   | bubble_sort.py    | 
