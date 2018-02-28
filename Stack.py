@@ -1,4 +1,5 @@
 # Implementation of a stack ADT
+# LIFO
 
 class Stack:
 	def __init__(self):
