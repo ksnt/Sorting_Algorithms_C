@@ -52,6 +52,11 @@ C (gcc5.4.0,cc5.4.0)
 | Binary Search                 | binary_search.py     |
 
 
+| Description  | File name   |
+|:-----------|:------------|
+| Confirmation of valid parentheses     | valid_parentheses.py |
+
+
 ## Reference  
 
 ### Practical
