@@ -75,7 +75,7 @@ https://gist.github.com/haikentcode/80a12e92ab2173490a088c97a80b1372 ※I revise
 
 http://melborne.github.io/2009/03/18/notitle/ ※ in Japanese  
 
-https://cs.nyu.edu/courses/fall17/CSCI-UA.0310-003/ ※ I came across the page at NYU. Problem sets seem very interesting to me. I am jealous of NYU students ;-)   
+https://cs.nyu.edu/courses/fall17/CSCI-UA.0310-003/ ※ I came across this page at NYU. Problem sets seem very interesting to me. I am jealous of NYU students ;-)   
 
 ### Theoretical
 Aho, A. V., & Hopcroft, J. E. (1974). The design and analysis of computer algorithms. Pearson Education India.  
